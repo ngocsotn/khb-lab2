@@ -2,9 +2,9 @@
 
 ## Members of the team
 
--   20424027 - Phạm Thị Minh Hậu
--   20424056 - Nguyễn Thế Ngọc
--   20424058 - Nguyễn văn Nhật
+-   Phạm Thị Minh Hậu
+-   Nguyễn Thế Ngọc
+-   Nguyễn văn Nhật
 
 ---
 
